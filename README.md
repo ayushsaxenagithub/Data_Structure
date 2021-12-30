@@ -1,1 +1,3 @@
-This is for **local machine git bash checking in featured branch**
+This is for **local machine git bash checking in master branch**
+
+This is master branch
