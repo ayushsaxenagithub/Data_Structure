@@ -1,3 +1,3 @@
-This is for **local machine git bash checking in master branch**
+This is for **local machine git bash checking in master branch whick will changes to quick branch**
 
-This is quick branch to check some new functionality
+This is master branch
