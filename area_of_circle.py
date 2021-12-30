@@ -1,3 +1,4 @@
+#We clone this on GitHub to check if the repository is working properly
 n= int (input("Enter the number : "))
 def sum(num):
     s=0
@@ -6,3 +7,4 @@ def sum(num):
     return s
 
 print("The sum of the numbers is :",sum(n))
+
